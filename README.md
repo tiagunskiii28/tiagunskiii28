@@ -5,4 +5,4 @@
 *🧑‍🎓:Learning : Phyton and C# at he moment  
 
 ![Gráfico de contribuciones](./grafico_de_contribuciones.png)
-
+*&#x1F4E7;:tiagonavarrogonzalez@gmail.com
