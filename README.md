@@ -11,10 +11,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/tiago-navarro-gonz%C3%A1lez-400a28279/](https://www.linkedin.com/in/tiago-navarro-gonz%C3%A1lez-400a28279/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
