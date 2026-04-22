@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Phython Url shortener](https://github.com/tiagunskiii28/UrlZeno)
 
-- 🌱 I’m currently learning **Spring boot and AI Automation also currently studying**
+- 🌱 I’m currently learning **Spring boot and AI Automation also currently studying a degree in computer engineering**
 
 - 💬 Ask me about **Phyton, SQL, Java, Jetpack Compose, API's or Databases**
 
